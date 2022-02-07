@@ -1,7 +1,7 @@
 # snake-game
 Simple Snake Game made for playing and learnign pygame.
 
-<img src="images/screenshot.PNG" >
+<img src="files/screenshot.PNG" >
 
 <h2> Instructions </h2>
 <ul>
